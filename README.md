@@ -24,7 +24,7 @@ This strategy was automatically synthesized using **Genetic Strategy Lab**, a ge
 
 > **Note:** These figures come from the original in-sample training synthesis and are not a guarantee of future performance.
 
-### Strategy Analyzer Screenshots
+### Strategy Analyzer Screenshots (01/01/2020-01/16/2026)
 
 #### Performance Summary
 ![Performance Summary](performance.png)
