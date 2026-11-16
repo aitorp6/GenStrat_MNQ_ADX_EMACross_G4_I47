@@ -14,7 +14,7 @@ This strategy was automatically synthesized using **Genetic Strategy Lab**, a ge
 | --- | --- |
 | **Instrument** | MNQ |
 | **Timeframe** | 15 Minutes (15M) |
-| **Training Period** | `2026-09-16` to `2026-11-15` |
+| **Training Period** | 60 days. `2026-09-16` to `2026-11-15` |
 | **Synthesized Rules** | ADX Trend Strength (14) + EMA Crossover (9 / 21) |
 | **Trades Generated** | 103 (MinTrades filter: 100) |
 | **Profit Factor** | 2.23 |
